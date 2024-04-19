@@ -1,0 +1,31 @@
+Day-25
+---------
+Auto suggest dropdown(dynamic)
+
+Alerts/popus
+
+1) alert with ok 
+2) alert with ok & Cancel
+3) alert with inputbox along with ok & Cancel
+4) alert with no elements
+
+Alert alertwindow=driver.switchTo().alert()
+
+accept()
+dismiss()
+getText()
+
+
+Assignments
+-------------
+1) Auto suggetion box
+https://www.bing.com/
+
+2) Alert
+https://the-internet.herokuapp.com/javascript_alerts
+https://mail.rediff.com/cgi-bin/login.cgi
+
+
+
+
+

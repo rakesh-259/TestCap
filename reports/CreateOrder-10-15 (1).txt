@@ -1,0 +1,176 @@
+{
+    "transactionId": "2022-09-16,02:14:22:0315_5994606_B95778",
+    "orderInfo": {
+        "orderName": "TestOrder-BI-10-15-202201",
+        "orderType": "BuildInstall",
+        "optixProjectType": "Install",
+        "eventType": "ORDER_CREATION",
+        "optixProjectId": 5994606,
+        "wattsID": "CBE-",
+        "siteID": "580",
+        "Market": "NWARKANSAS",
+        "Region": "CENTRAL",
+        "tspProject": false,
+        "expedite": false,
+        "cost": 2648.8799,
+        "capitalDistributionClassCode": "Small to Medium Business",
+        "totalMRCVal": 0.0,
+        "totalNRCVal": 0.0,
+        "status": "Incomplete",
+        "baaRequired": true,
+        "baaOnFile": false
+    },
+    "location": {
+        "addressId": 1529450,
+        "consolidatedAddress": "kk test data",
+        "houseNum": "kk",
+        "street": "test data",
+        "city": "BENTONVILLE",
+        "state": "Arkansas",
+        "zip": "45674",
+        "icomsID": 0,
+        "district": "Arkansas",
+        "Description": "Unspecified",
+        "addressType": 1,
+        "distanceToTap": "127",
+        "node": "BV025",
+        "franchise": true,
+        "units": "0"
+    },
+    "serviceability": {
+        "onNetwork": false,
+        "offNetwork": true,
+        "bcode": "B4",
+        "coxProvided": false,
+        "typeII": false
+    },
+    "medium": {
+        "fiber": false,
+        "hfc": false
+    },
+    "technology": {
+        "gpon": false,
+        "rfog": false,
+        "docsis3_0": false,
+        "docsis3_1": false,
+        "xgspon": false
+    },
+    "dates": {},
+    "services": [
+        {
+            "productLinkId": 65203960,
+            "productParentLinkId": 65203960,
+            "product": "Cox Managed Router",
+            "promotion": "Standard",
+            "productID": 104017,
+            "productType": "Product",
+            "billingID": {
+                "bid": "0000000-00",
+                "siteId": "580"
+            },
+            "simpleProduct": false,
+            "term": 1,
+            "newTerm": true,
+            "price": 0.0,
+            "fromQty": 0,
+            "toQty": 1,
+            "transport": "Fiber",
+            "wattsTransport": "Fiber",
+            "subTotal": 0.0,
+            "fulfillmentCategory": "Managed Router Services"
+        }
+    ],
+    "oldAccount": {
+        "optixAccountId": 2424737,
+        "icomsCustomerCategory": "3-CB Bronze",
+        "accountType": "Retail",
+        "industry": "Education: Pre-K - 12 - Public",
+        "multiMarket": false,
+        "salesSegment": "Home Office",
+        "status": "Never"
+    },
+    "newAccount": {
+        "billingId": [
+            {
+                "bid": "0000000-00",
+                "siteId": "580",
+                "optixRefId": 2709896
+            }
+        ],
+        "optixAccountId": 2424737,
+        "icomsCustomerCategory": "3-CB Bronze",
+        "companyName": "shivraj bi",
+        "accountType": "Retail",
+        "industry": "Education: Pre-K - 12 - Public",
+        "multiMarket": false,
+        "salesSegment": "Home Office",
+        "status": "Never"
+    },
+    "selectedForEstimate": [
+        {
+            "estimateID": 1998540,
+            "estimateType": "Fiber Estimate",
+            "estimateTotalCost": 2998.3199999999997,
+            "estimateLineItems": [
+                {
+                    "item": 9091260,
+                    "qty": 78,
+                    "price": 19.22,
+                    "subTotal": 1499.1599999999999
+                },
+                {
+                    "item": 9091262,
+                    "qty": 78,
+                    "price": 19.22,
+                    "subTotal": 1499.1599999999999
+                }
+            ]
+        },
+        {
+            "estimateID": 1998541,
+            "estimateType": "HFC Estimate",
+            "estimateTotalCost": 2299.44,
+            "estimateLineItems": [
+                {
+                    "item": 9091261,
+                    "qty": 78,
+                    "price": 14.74,
+                    "subTotal": 1149.72
+                },
+                {
+                    "item": 9091263,
+                    "qty": 78,
+                    "price": 14.74,
+                    "subTotal": 1149.72
+                }
+            ]
+        }
+    ],
+    "contacts": [
+        {
+            "contactId": 130392,
+            "type": "SalesRep",
+            "fullName": "Aishwarya K",
+            "networkId": "corp\\B95778",
+            "emailContact": "Aishwarya.K@cox.com",
+            "phone1": "1"
+        },
+        {
+            "contactId": 2582737,
+            "type": "PrimaryContact",
+            "fullName": "aishwarya aishwarya",
+            "firstName": "aishwarya",
+            "lastName": "aishwarya"
+        }
+    ],
+    "equipmentTypes": [
+        {
+            "equipmentName": "Nokia",
+            "applicable": false
+        },
+        {
+            "equipmentName": "Calix",
+            "applicable": false
+        }
+    ]
+}
