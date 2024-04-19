@@ -16,9 +16,17 @@ dismiss()
 getText()
 
 
+Assignments
+-------------
+1) Auto suggetion box
+https://www.bing.com/
+
+2) Alert
+https://the-internet.herokuapp.com/javascript_alerts
+https://mail.rediff.com/cgi-bin/login.cgi
 
 
 
 
 
-
+>>>>>>> origin/master
