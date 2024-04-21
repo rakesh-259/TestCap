@@ -1,8 +1,0 @@
-18:13:10.536 [main] INFO  Day5.TestnG - This is at testMethod1
-18:13:10.550 [main] INFO  Day5.TestnG - This is at testMethod2
-19:05:00.900 [main] INFO  Day5.SoftAsse - This is at testMethod1
-19:05:00.915 [main] INFO  Day5.SoftAsse - This is at testMethod2
-19:08:23.581 [main] INFO  Day5.SoftAsse - This is at testMethod1
-19:08:23.596 [main] INFO  Day5.SoftAsse - This is at testMethod2
-19:46:36.033 [main] INFO  Day5.TestMethods - This is at testMethod1
-19:46:53.065 [main] INFO  Day5.TestMethods - This is at testMethod1
